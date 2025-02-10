@@ -1,0 +1,13 @@
+torch
+transformers
+peft
+pandas
+tqdm
+sentence-transformers
+datasets
+trl
+accelerate
+nltk
+konlpy
+numpy
+wandb
