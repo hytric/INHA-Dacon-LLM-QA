@@ -2,6 +2,8 @@
 
 This repository contains code to analyze and answer questions about Korean economy articles. The project experiments with multiple tuning strategies including fine-tuning with LLaMA3-openko, prefix tuning, and QLoRA methods.
 
+[Blog Review](https://hytric.github.io/project/Dacon_LLM/)
+
 ## Environment
 
 - **OS:** Linux
